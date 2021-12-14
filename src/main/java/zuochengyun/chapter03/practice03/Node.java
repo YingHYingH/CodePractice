@@ -1,4 +1,4 @@
-package zuochengyun.chapter03.practice02;
+package zuochengyun.chapter03.practice03;
 
 public class Node {
     public int value;
